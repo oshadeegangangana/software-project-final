@@ -1,0 +1,115 @@
+ @import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.home,
+.about-us,
+.introduction,
+.cervices,
+.chatbox,
+.login,
+.registration, 
+.profile {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.home {
+  background-image: url(https://c8.alamy.com/comp/H0CT40/iq-intellectual-question-illustration-concept-with-people-with-icon-H0CT40.jpg);
+   /* background-image: url(./components/images/home.jpg);   */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 100px;
+}
+
+.about-us {
+  background-image: url(https://c8.alamy.com/comp/H0CT40/iq-intellectual-question-illustration-concept-with-people-with-icon-H0CT40.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 100px;
+}
+
+.introduction {
+  background-image: url(https://c8.alamy.com/comp/H0CT40/iq-intellectual-question-illustration-concept-with-people-with-icon-H0CT40.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 100px;
+}
+
+.cervices {
+  background-image: url(https://c8.alamy.com/comp/H0CT40/iq-intellectual-question-illustration-concept-with-people-with-icon-H0CT40.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 100px;
+}
+
+.chatbox {
+  background-image: url(https://c8.alamy.com/comp/H0CT40/iq-intellectual-question-illustration-concept-with-people-with-icon-H0CT40.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 100px;
+}
+
+ .registration {
+  background-image: url(https://c8.alamy.com/comp/H0CT40/iq-intellectual-question-illustration-concept-with-people-with-icon-H0CT40.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 100px; 
+}
+
+.login {
+  background-image: url(https://c8.alamy.com/comp/H0CT40/iq-intellectual-question-illustration-concept-with-people-with-icon-H0CT40.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 100px;
+}
+
+.profile {
+  background-image: url(https://c8.alamy.com/comp/H0CT40/iq-intellectual-question-illustration-concept-with-people-with-icon-H0CT40.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 100px;
+} 
+
+.form-container {
+  margin: 100px auto;
+  width: 1000px;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+  position: relative;
+  border-radius: 10px;
+  height: 600px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+} 
+
+
+
+
+
+
+
+  

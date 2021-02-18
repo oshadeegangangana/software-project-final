@@ -1,0 +1,33 @@
+[1111/194638.279:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.187:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.527:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.527:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.527:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.527:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.527:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.527:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.527:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.527:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.578:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.282:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1111/194638.578:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1111/194638.188:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1111/194638.285:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1111/194638.192:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1111/194638.578:ERROR:exception_snapshot_win.cc(99)] thread ID 2968 not found in process
+[1111/194638.578:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.578:ERROR:exception_snapshot_win.cc(99)] thread ID 1948 not found in process
+[1111/194638.578:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.578:ERROR:exception_snapshot_win.cc(99)] thread ID 3184 not found in process
+[1111/194638.192:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1111/194638.192:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1111/194638.578:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1111/194638.579:ERROR:exception_snapshot_win.cc(99)] thread ID 11168 not found in process
+[1111/194638.188:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1111/194638.579:ERROR:exception_snapshot_win.cc(99)] thread ID 3200 not found in process
+[1111/194638.579:ERROR:exception_snapshot_win.cc(99)] thread ID 3192 not found in process
+[1111/194638.579:ERROR:exception_snapshot_win.cc(99)] thread ID 12652 not found in process
+[1111/194638.579:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1111/194638.579:ERROR:exception_snapshot_win.cc(99)] thread ID 14008 not found in process
+[1111/194638.578:ERROR:exception_snapshot_win.cc(99)] thread ID 8144 not found in process
+[1112/121356.920:FATAL:v8_initializer.cc(176)] Failed to open V8 file 'C:\Program Files\Microsoft VS Code\natives_blob.bin' (reason: -4)
